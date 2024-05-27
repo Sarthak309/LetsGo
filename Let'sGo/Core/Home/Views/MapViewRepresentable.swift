@@ -62,6 +62,7 @@ extension MapViewRepresentable{
         var userLocationCoordinate: CLLocationCoordinate2D?
         var currentRegion: MKCoordinateRegion?
         
+        
         //MARK: - Lifecyce
         init(parent: MapViewRepresentable) {
             self.parent = parent
