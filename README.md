@@ -5,8 +5,8 @@ Let’s Go is a comprehensive ride-sharing and navigation application designed t
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <img src="1.png" alt="Screenshot 1" width="300"/>
-    <img src="2.png" alt="Screenshot 2" width="300"/>
+    <img src="images/1.png" alt="Screenshot 1" width="300"/>
+    <img src="images/2.png" alt="Screenshot 2" width="300"/>
 </div>
 
 
